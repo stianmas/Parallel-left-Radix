@@ -1,0 +1,33 @@
+Kjøretider:
+
+n = 2000
+Sekvensiell tid: 0.15117ms
+Parallell tid: 4.228836ms
+Speedup: 0.03574742553269977
+
+
+n = 20000
+Sekvensiell tid: 1.557483ms
+Parallell tid: 4.846877ms
+Speedup: 0.32133743026695333
+
+n = 200000
+Sekvensiell tid: 5.533872ms
+Parallell tid: 20.653965ms
+Speedup: 0.2679326705550242
+
+n = 2000000
+Sekvensiell tid: 34.396632ms
+Parallell tid: 104.400576ms
+Speedup: 0.329467837418828
+
+n = 20000000
+Sekvensiell tid: 297.736977ms
+Parallell tid: 150.242974ms
+Speedup: 1.9817031643689376
+
+n = 200000000
+Sekvensiell tid: 5545.128992ms
+Parallell tid: 986.353719ms
+Speedup: 5.621846286159743
+
